@@ -1,0 +1,48 @@
+{
+  "1": [
+    {
+      "id": 0,
+      "name": "Category 1",
+      "success": 7,
+      "total": 10,
+      "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/assets/ann-hateway.png"
+    },
+    {
+      "id": 1,
+      "name": "Category 2",
+      "success": 7,
+      "total": 10,
+      "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/assets/bruce-willis.png"
+    },
+    {
+      "id": 2,
+      "name": "Category 3",
+      "success": 7,
+      "total": 10,
+      "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/assets/kianu-rivz.png"
+    }
+  ],
+  "2": [
+    {
+      "id": 0,
+      "name": "Category 1",
+      "success": 7,
+      "total": 10,
+      "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/assets/categories-poster-01.png"
+    },
+    {
+      "id": 1,
+      "name": "Category 2",
+      "success": 7,
+      "total": 10,
+      "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/assets/categories-poster-02.png"
+    },
+    {
+      "id": 2,
+      "name": "Category 3",
+      "success": 7,
+      "total": 10,
+      "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/assets/categories-poster-03.png"
+    }
+  ]
+}
