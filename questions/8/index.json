@@ -1,0 +1,11 @@
+{
+  "id": 8,
+  "question": "Who is this actor/actress",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/8/image.png",
+  "answers": [
+    { "value": "Ben Affleck" },
+    { "value": "Tom Cruise" },
+    { "value": "Chris Evans" },
+    { "value": "Jason Statham", "correct": true }
+  ]
+}

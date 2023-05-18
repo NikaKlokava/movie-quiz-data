@@ -1,0 +1,11 @@
+{
+  "id": 30,
+  "question": "Who is this actor/actress",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/30/image.png",
+  "answers": [
+    { "value": "Milla Jovovich" },
+    { "value": "Mila Kunis" },
+    { "value": "Cameron Diaz" },
+    { "value": "Megan Fox", "correct": true }
+  ]
+}

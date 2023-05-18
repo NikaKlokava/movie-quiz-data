@@ -1,0 +1,11 @@
+{
+  "id": 52,
+  "question": "What movie is this scene from?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/52/image.png",
+  "answers": [
+    { "value": "Blade Runner" },
+    { "value": "Dune", "correct": true },
+    { "value": "Arrival" },
+    { "value": "Knowing" }
+  ]
+}

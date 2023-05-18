@@ -1,0 +1,11 @@
+{
+  "id": 11,
+  "question": "Who is this actor/actress",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/11/image.png",
+  "answers": [
+    { "value": "Felicity Jones" },
+    { "value": "Charlize Theron", "correct": true },
+    { "value": "Jessica Chastain" },
+    { "value": "Anna Kendrick" }
+  ]
+}

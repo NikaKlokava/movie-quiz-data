@@ -1,0 +1,11 @@
+{
+  "id": 87,
+  "question": "What movie is this scene from?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/87/image.png",
+  "answers": [
+    { "value": "Jumanji" },
+    { "value": "Independence Day" },
+    { "value": "Jurassic World", "correct": true },
+    { "value": "Guardians of the Galaxy" }
+  ]
+}

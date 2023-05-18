@@ -1,0 +1,11 @@
+{
+  "id": 86,
+  "question": "What movie is this scene from?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/86/image.png",
+  "answers": [
+    { "value": "Sex and the City" },
+    { "value": "Bridesmaids" },
+    { "value": "What Happens in Vegas" },
+    { "value": "Bride Wars", "correct": true }
+  ]
+}

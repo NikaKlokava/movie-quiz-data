@@ -1,0 +1,11 @@
+{
+  "id": 43,
+  "question": "Who is this actor/actress",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/43/image.png",
+  "answers": [
+    { "value": "Chris Evans" },
+    { "value": "James McAvoy" },
+    { "value": "Jason Statham" },
+    { "value": "Woody Harrelson", "correct": true }
+  ]
+}

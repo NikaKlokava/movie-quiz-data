@@ -1,0 +1,11 @@
+{
+  "id": 80,
+  "question": "What movie is this scene from?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/80/image.png",
+  "answers": [
+    { "value": "Jumanji" },
+    { "value": "Pirates of the Caribbean" },
+    { "value": "Night at the Museum", "correct": true },
+    { "value": "Free Guy" }
+  ]
+}

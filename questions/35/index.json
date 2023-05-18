@@ -1,0 +1,11 @@
+{
+  "id": 35,
+  "question": "Who is this actor/actress",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/35/image.png",
+  "answers": [
+    { "value": "Denzel Washington" },
+    { "value": "Vin Diesel", "correct": true },
+    { "value": "Chris Hemsworth" },
+    { "value": "Woody Harrelson" }
+  ]
+}

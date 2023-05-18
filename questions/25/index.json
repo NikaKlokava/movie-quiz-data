@@ -1,0 +1,11 @@
+{
+  "id": 25,
+  "question": "Who is this actor/actress",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/25/image.png",
+  "answers": [
+    { "value": "Hilary Duff" },
+    { "value": "Margot Robbie" },
+    { "value": "Jessica Chastain" },
+    { "value": "Mila Kunis", "correct": true }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": 65,
+  "question": "What movie is this scene from?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/65/image.png",
+  "answers": [
+    { "value": "The Fast and the Furious", "correct": true },
+    { "value": "Mission: Impossible" },
+    { "value": "Guardians of the Galaxy" },
+    { "value": "John Wick" }
+  ]
+}

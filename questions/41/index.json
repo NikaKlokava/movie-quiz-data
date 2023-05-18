@@ -1,0 +1,11 @@
+{
+  "id": 41,
+  "question": "Who is this actor/actress",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/41/image.png",
+  "answers": [
+    { "value": "Mark Wahlberg" },
+    { "value": "Bradley Cooper" },
+    { "value": "George Clooney", "correct": true },
+    { "value": "Matthew McConaughey" }
+  ]
+}

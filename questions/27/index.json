@@ -1,0 +1,11 @@
+{
+  "id": 27,
+  "question": "Who is this actor/actress",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/27/image.png",
+  "answers": [
+    { "value": "Jessica Chastain" },
+    { "value": "Salma Hayek", "correct": true },
+    { "value": "Kristen Wiig" },
+    { "value": "Jessica Alba" }
+  ]
+}

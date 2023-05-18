@@ -1,0 +1,11 @@
+{
+  "id": 54,
+  "question": "What movie is this scene from?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/54/image.png",
+  "answers": [
+    { "value": "The Hunger Games" },
+    { "value": "Pirates of the Caribbean", "correct": true },
+    { "value": "The Chronicles of Narnia" },
+    { "value": "The Lord of the Rings" }
+  ]
+}

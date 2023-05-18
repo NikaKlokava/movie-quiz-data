@@ -1,0 +1,11 @@
+{
+  "id": 26,
+  "question": "Who is this actor/actress",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/26/image.png",
+  "answers": [
+    { "value": "Chris Hemsworth" },
+    { "value": "Matthew McConaughey" },
+    { "value": "Channing Tatum", "correct": true },
+    { "value": "James McAvoy" }
+  ]
+}

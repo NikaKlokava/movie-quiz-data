@@ -1,0 +1,11 @@
+{
+  "id": 53,
+  "question": "What movie is this scene from?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/53/image.png",
+  "answers": [
+    { "value": "It Follows", "correct": true },
+    { "value": "Insidious" },
+    { "value": "Smile" },
+    { "value": "The Mist" }
+  ]
+}

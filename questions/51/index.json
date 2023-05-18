@@ -1,0 +1,11 @@
+{
+  "id": 51,
+  "question": "What movie is this scene from?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/51/image.png",
+  "answers": [
+    { "value": "Guardians of the Galaxy" },
+    { "value": "The Fifth Element" },
+    { "value": "Avengers: Secret Wars" },
+    { "value": "Star Wars", "correct": true }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": 82,
+  "question": "What movie is this scene from?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/82/image.png",
+  "answers": [
+    { "value": "Jurassic World" },
+    { "value": "Jumanji", "correct": true },
+    { "value": "Night at the Museum" },
+    { "value": "Jungle Cruise" }
+  ]
+}

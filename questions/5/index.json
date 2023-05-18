@@ -1,0 +1,11 @@
+{
+  "id": 5,
+  "question": "Who is this actor/actress",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/5/image.png",
+  "answers": [
+    { "value": "Nicolas Cage", "correct": true },
+    { "value": "Chris Pratt" },
+    { "value": "Chris Hemsworth" },
+    { "value": "Ben Affleck" }
+  ]
+}

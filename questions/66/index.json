@@ -1,0 +1,11 @@
+{
+  "id": 66,
+  "question": "What movie is this scene from?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/66/image.png",
+  "answers": [
+    { "value": "She's the Man", "correct": true },
+    { "value": "17 Again" },
+    { "value": "What a Girl Wants" },
+    { "value": "Love Actually" }
+  ]
+}

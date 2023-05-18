@@ -1,0 +1,11 @@
+{
+    "id": 76,
+    "question": "What movie is this scene from?",
+    "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/76/image.png",
+    "answers": [
+      { "value": "Due Date" },
+      { "value": "The Hangover", "correct": true },
+      { "value": "War Dogs" },
+      { "value": "What Happens in Vegas" }
+    ]
+  }

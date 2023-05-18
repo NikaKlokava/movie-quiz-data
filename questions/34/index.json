@@ -1,0 +1,11 @@
+{
+  "id": 34,
+  "question": "Who is this actor/actress",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/34/image.png",
+  "answers": [
+    { "value": "Lindsay Lohan" },
+    { "value": "Salma Hayek" },
+    { "value": "Penelope Cruz", "correct": true },
+    { "value": "Jennifer Lawrence" }
+  ]
+}

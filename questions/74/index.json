@@ -1,0 +1,11 @@
+{
+  "id": 74,
+  "question": "What movie is this scene from?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/74/image.png",
+  "answers": [
+    { "value": "Divergent" },
+    { "value": "Twilight", "correct": true },
+    { "value": "The Maze Runner" },
+    { "value": "Remember Me" }
+  ]
+}

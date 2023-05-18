@@ -1,0 +1,11 @@
+{
+  "id": 7,
+  "question": "Who is this actor/actress",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/7/image.png",
+  "answers": [
+    { "value": "Nicole Kidman", "correct": true },
+    { "value": "Margot Robbie" },
+    { "value": "Felicity Jones" },
+    { "value": "Scarlett Johansson" }
+  ]
+}

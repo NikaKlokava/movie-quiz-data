@@ -1,0 +1,11 @@
+{
+  "id": 64,
+  "question": "What movie is this scene from?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/64/image.png",
+  "answers": [
+    { "value": "House of Gucci" },
+    { "value": "Cruella", "correct": true },
+    { "value": "Charlie's Angels" },
+    { "value": "The Devil Wears Prada" }
+  ]
+}

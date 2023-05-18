@@ -1,0 +1,11 @@
+{
+  "id": 10,
+  "question": "Who is this actor/actress",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/10/image.png",
+  "answers": [
+    { "value": "Will Smith", "correct": true },
+    { "value": "Denzel Washington" },
+    { "value": "Vin Diesel" },
+    { "value": "Morgan Freeman" }
+  ]
+}
