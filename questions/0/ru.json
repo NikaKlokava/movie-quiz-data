@@ -1,7 +1,7 @@
 {
   "id": 0,
   "question": "Кто этот актер/актриса?",
-  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/0/image.png",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/main/questions/0/image.png",
   "answers": [
     { "value": "Джаред Лето" },
     { "value": "Том Круз" },

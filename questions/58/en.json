@@ -1,7 +1,7 @@
 {
   "id": 58,
   "question": "What movie is this scene from?",
-  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/58/image.png",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/main/questions/58/image.png",
   "answers": [
     { "value": "The Duff" },
     { "value": "Friends with Benefits" },

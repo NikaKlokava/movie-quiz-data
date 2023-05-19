@@ -1,7 +1,7 @@
 {
   "id": 68,
   "question": "What movie is this scene from?",
-  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/68/image.png",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/main/questions/68/image.png",
   "answers": [
     { "value": "Harry Potter" },
     { "value": "The Lord of the Rings" },

@@ -1,7 +1,7 @@
 {
   "id": 13,
   "question": "Who is this actor/actress?",
-  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/13/image.png",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/main/questions/13/image.png",
   "answers": [
     { "value": "Chris Pratt" },
     { "value": "Matt Damon" },

@@ -1,7 +1,7 @@
 {
   "id": 9,
   "question": "Who is this actor/actress?",
-  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/9/image.png",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/main/questions/9/image.png",
   "answers": [
     { "value": "Jennifer Lawrence" },
     { "value": "Jennifer Aniston", "correct": true },

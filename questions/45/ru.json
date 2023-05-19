@@ -1,7 +1,7 @@
 {
   "id": 45,
   "question": "Из какого фильма эта сцена?",
-  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/45/image.png",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/main/questions/45/image.png",
   "answers": [
     { "value": "Прометей" },
     { "value": "Пассажиры", "correct": true },
