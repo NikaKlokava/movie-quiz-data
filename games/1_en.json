@@ -1,7 +1,9 @@
-{
-  "name": "Game 2",
-  "success": 7,
-  "total": 15,
-  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/main/assets/actors-poster-02.png",
-  "questions": [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29]
-}
+[
+  {
+    "name": "Game 2",
+    "success": 7,
+    "total": 15,
+    "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/main/assets/actors-poster-02.png",
+    "questions": [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29]
+  }
+]
