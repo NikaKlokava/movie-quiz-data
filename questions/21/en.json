@@ -1,7 +1,7 @@
 {
   "id": 21,
   "question": "Who is this actor/actress?",
-  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/21/image.png",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/main/questions/21/image.png",
   "answers": [
     { "value": "Charlize Theron" },
     { "value": "Nicole Kidman" },

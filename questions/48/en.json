@@ -1,7 +1,7 @@
 {
   "id": 48,
   "question": "What movie is this scene from?",
-  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/48/image.png",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/main/questions/48/image.png",
   "answers": [
     { "value": "Friends with Benefits", "correct": true },
     { "value": "No Strings Attached" },

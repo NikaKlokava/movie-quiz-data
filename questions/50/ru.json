@@ -1,7 +1,7 @@
 {
   "id": 50,
   "question": "Из какого фильма эта сцена?",
-  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/50/image.png",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/main/questions/50/image.png",
   "answers": [
     { "value": "Загадочное убийство" },
     { "value": "Смешанные" },

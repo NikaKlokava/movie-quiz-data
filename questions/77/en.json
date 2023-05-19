@@ -1,7 +1,7 @@
 {
   "id": 77,
   "question": "What movie is this scene from?",
-  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/77/image.png",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/main/questions/77/image.png",
   "answers": [
     { "value": "The Hobbit" },
     { "value": "The Chronicles of Narnia", "correct": true },

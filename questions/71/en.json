@@ -1,7 +1,7 @@
 {
   "id": 71,
   "question": "What movie is this scene from?",
-  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/71/image.png",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/main/questions/71/image.png",
   "answers": [
     { "value": "The Batman" },
     { "value": "Suicide Squad", "correct": true },

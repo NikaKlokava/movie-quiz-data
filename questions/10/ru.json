@@ -1,7 +1,7 @@
 {
   "id": 10,
   "question": "Кто этот актер/актриса?",
-  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/10/image.png",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/main/questions/10/image.png",
   "answers": [
     { "value": "Уилл Смит", "correct": true },
     { "value": "Дензел Вашингтон" },

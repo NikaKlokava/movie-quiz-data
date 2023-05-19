@@ -1,7 +1,7 @@
 {
   "id": 83,
   "question": "Из какого фильма эта сцена?",
-  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/83/image.png",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/main/questions/83/image.png",
   "answers": [
     { "value": "Грань будущего" },
     { "value": "Дивергент" },

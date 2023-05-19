@@ -1,7 +1,7 @@
 {
   "id": 76,
   "question": "Из какого фильма эта сцена?",
-  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/76/image.png",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/main/questions/76/image.png",
   "answers": [
     { "value": "Впритык" },
     { "value": "Мальчишник в Вегасе", "correct": true },

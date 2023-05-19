@@ -1,7 +1,7 @@
 {
   "id": 31,
   "question": "Кто этот актер/актриса?",
-  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/31/image.png",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/main/questions/31/image.png",
   "answers": [
     { "value": "Хилари Дафф" },
     { "value": "Линдси Лохан", "correct": true },

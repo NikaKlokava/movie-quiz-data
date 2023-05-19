@@ -1,7 +1,7 @@
 {
   "id": 78,
   "question": "What movie is this scene from?",
-  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/78/image.png",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/main/questions/78/image.png",
   "answers": [
     { "value": "Avatar" },
     { "value": "Guardians of the Galaxy" },

@@ -1,7 +1,7 @@
 {
   "id": 30,
   "question": "Кто этот актер/актриса?",
-  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/30/image.png",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/main/questions/30/image.png",
   "answers": [
     { "value": "Милла Йовович" },
     { "value": "Мила Кунис" },
