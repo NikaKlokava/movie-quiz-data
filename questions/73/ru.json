@@ -1,0 +1,11 @@
+{
+  "id": 73,
+  "question": "Из какого фильма эта сцена?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/73/image.png",
+  "answers": [
+    { "value": "Бегущий в лабиринте" },
+    { "value": "Бегущий по лезвию" },
+    { "value": "Дивергент" },
+    { "value": "Голодные игры", "correct": true }
+  ]
+}

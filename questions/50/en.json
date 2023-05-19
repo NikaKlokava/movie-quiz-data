@@ -1,0 +1,11 @@
+{
+  "id": 50,
+  "question": "What movie is this scene from?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/50/image.png",
+  "answers": [
+    { "value": "Murder Mystery" },
+    { "value": "Blended" },
+    { "value": "Grown Ups", "correct": true },
+    { "value": "Just Go with It" }
+  ]
+}

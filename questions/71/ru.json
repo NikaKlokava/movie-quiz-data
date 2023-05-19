@@ -1,0 +1,11 @@
+{
+  "id": 71,
+  "question": "Из какого фильма эта сцена?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/71/image.png",
+  "answers": [
+    { "value": "Бэтмен" },
+    { "value": "Отряд самоубийц", "correct": true },
+    { "value": "Мстители" },
+    { "value": "Лига справедливости" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": 62,
+  "question": "What movie is this scene from?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/62/image.png",
+  "answers": [
+    { "value": "Planet of the Apes", "correct": true },
+    { "value": "Star Trek" },
+    { "value": "Alien" },
+    { "value": "The Time Machine" }
+  ]
+}

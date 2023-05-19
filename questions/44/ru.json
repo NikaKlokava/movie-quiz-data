@@ -1,0 +1,11 @@
+{
+  "id": 44,
+  "question": "Кто этот актер/актриса?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/44/image.png",
+  "answers": [
+    { "value": "Брюс Уиллис", "correct": true },
+    { "value": "Том Круз" },
+    { "value": "Брэд Питт" },
+    { "value": "Джеймс Макэвой" }
+  ]
+}

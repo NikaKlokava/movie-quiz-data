@@ -1,0 +1,11 @@
+{
+  "id": 31,
+  "question": "Who is this actor/actress?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/31/image.png",
+  "answers": [
+    { "value": "Hilary Duff" },
+    { "value": "Lindsay Lohan", "correct": true },
+    { "value": "Jessica Chastain" },
+    { "value": "Felicity Jones" }
+  ]
+}

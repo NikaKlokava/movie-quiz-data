@@ -1,0 +1,11 @@
+{
+  "id": 38,
+  "question": "Who is this actor/actress?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/38/image.png",
+  "answers": [
+    { "value": "Scarlett Johansson" },
+    { "value": "Kristen Bell" },
+    { "value": "Anna Kendrick" },
+    { "value": "Kristen Stewart", "correct": true }
+  ]
+}

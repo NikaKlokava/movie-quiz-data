@@ -1,0 +1,11 @@
+{
+  "id": 39,
+  "question": "Кто этот актер/актриса?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/39/image.png",
+  "answers": [
+    { "value": "Крис Хемсворт" },
+    { "value": "Хью Джекман", "correct": true },
+    { "value": "Chris Evans" },
+    { "value": "Бен Стиллер" }
+  ]
+}

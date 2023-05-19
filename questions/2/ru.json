@@ -1,0 +1,11 @@
+{
+  "id": 2,
+  "question": "Кто этот актер/актриса?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/2/image.png",
+  "answers": [
+    { "value": "Бен Аффлек" },
+    { "value": "Брэдли Купер", "correct": true },
+    { "value": "Мэтт Деймон" },
+    { "value": "Брэд Питт" }
+  ]
+}

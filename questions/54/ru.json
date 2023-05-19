@@ -1,0 +1,11 @@
+{
+  "id": 54,
+  "question": "Из какого фильма эта сцена?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/54/image.png",
+  "answers": [
+    { "value": "Голодные игры" },
+    { "value": "Пираты Карибского моря", "correct": true },
+    { "value": "Хроники Нарнии" },
+    { "value": "Властелин колец" }
+  ]
+}

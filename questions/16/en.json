@@ -1,0 +1,11 @@
+{
+  "id": 16,
+  "question": "Who is this actor/actress?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/16/image.png",
+  "answers": [
+    { "value": "Jake Gyllenhaal" },
+    { "value": "Matt Damon", "correct": true },
+    { "value": "Matthew McConaughey" },
+    { "value": "Chris Pratt" }
+  ]
+}

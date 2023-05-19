@@ -1,0 +1,11 @@
+{
+  "id": 66,
+  "question": "Из какого фильма эта сцена?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/66/image.png",
+  "answers": [
+    { "value": "Она — мужчина", "correct": true },
+    { "value": "Папе снова 17" },
+    { "value": "Чего хочет девушка" },
+    { "value": "Реальная любовь" }
+  ]
+}

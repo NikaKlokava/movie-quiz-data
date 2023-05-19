@@ -1,0 +1,11 @@
+{
+  "id": 75,
+  "question": "What movie is this scene from?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/75/image.png",
+  "answers": [
+    { "value": "The Hobbit" },
+    { "value": "Harry Potter" },
+    { "value": "Fantastic Beasts", "correct": true },
+    { "value": "The Lord of the Rings" }
+  ]
+}

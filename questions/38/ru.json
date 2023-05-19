@@ -1,0 +1,11 @@
+{
+  "id": 38,
+  "question": "Кто этот актер/актриса?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/38/image.png",
+  "answers": [
+    { "value": "Скарлетт Йоханссон" },
+    { "value": "Кристен Белл" },
+    { "value": "Анна Кендрик" },
+    { "value": "Кристен Стюарт", "correct": true }
+  ]
+}

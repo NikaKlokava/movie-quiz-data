@@ -1,0 +1,11 @@
+{
+  "id": 73,
+  "question": "What movie is this scene from?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/73/image.png",
+  "answers": [
+    { "value": "The Maze Runner" },
+    { "value": "Blade Runner" },
+    { "value": "Divergent" },
+    { "value": "The Hunger Games", "correct": true }
+  ]
+}

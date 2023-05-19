@@ -1,0 +1,11 @@
+{
+  "id": 40,
+  "question": "Кто этот актер/актриса?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/40/image.png",
+  "answers": [
+    { "value": "Скарлетт Йоханссон", "correct": true },
+    { "value": "Дакота Джонсон" },
+    { "value": "Дженнифер Энистон" },
+    { "value": "Линдси Лохан" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": 37,
+  "question": "Кто этот актер/актриса?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/37/image.png",
+  "answers": [
+    { "value": "Анджелина Джоли", "correct": true },
+    { "value": "Джессика Альба" },
+    { "value": "Анна Кендрик" },
+    { "value": "Кристен Уиг" }
+  ]
+}

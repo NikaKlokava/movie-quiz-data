@@ -1,0 +1,11 @@
+{
+  "id": 89,
+  "question": "What movie is this scene from?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/89/image.png",
+  "answers": [
+    { "value": "Click", "correct": true },
+    { "value": "Blended" },
+    { "value": "Anger Management" },
+    { "value": "Grown Ups" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": 17,
+  "question": "Кто этот актер/актриса?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/17/image.png",
+  "answers": [
+    { "value": "Дэниел Рэдклифф", "correct": true },
+    { "value": "Ченнинг Татум" },
+    { "value": "Марк Уолберг" },
+    { "value": "Том Круз" }
+  ]
+}

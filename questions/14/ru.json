@@ -1,0 +1,11 @@
+{
+  "id": 14,
+  "question": "Кто этот актер/актриса?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/14/image.png",
+  "answers": [
+    { "value": "Том Круз", "correct": true },
+    { "value": "Бен Аффлек" },
+    { "value": "Крис Хемсворт" },
+    { "value": "Джаред Лето" }
+  ]
+}

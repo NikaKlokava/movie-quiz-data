@@ -1,0 +1,11 @@
+{
+  "id": 36,
+  "question": "Who is this actor/actress?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/36/image.png",
+  "answers": [
+    { "value": "James McAvoy" },
+    { "value": "Bradley Cooper" },
+    { "value": "Keanu Reeves", "correct": true },
+    { "value": "Christopher Nolan" }
+  ]
+}

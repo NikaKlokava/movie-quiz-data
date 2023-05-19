@@ -1,0 +1,11 @@
+{
+  "id": 81,
+  "question": "What movie is this scene from?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/81/image.png",
+  "answers": [
+    { "value": "Inception", "correct": true },
+    { "value": "The Matrix" },
+    { "value": "Tenet" },
+    { "value": "Interstellar" }
+  ]
+}

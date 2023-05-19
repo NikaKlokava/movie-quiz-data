@@ -1,0 +1,11 @@
+{
+  "id": 12,
+  "question": "Who is this actor/actress?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/12/image.png",
+  "answers": [
+    { "value": "Jessica Chastain" },
+    { "value": "Jennifer Lawrence" },
+    { "value": "Scarlett Johansson" },
+    { "value": "Julia Roberts", "correct": true }
+  ]
+}

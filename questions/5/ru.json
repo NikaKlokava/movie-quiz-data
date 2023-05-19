@@ -1,0 +1,11 @@
+{
+  "id": 5,
+  "question": "Кто этот актер/актриса?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/5/image.png",
+  "answers": [
+    { "value": "Николас Кейдж", "correct": true },
+    { "value": "Крис Прэтт" },
+    { "value": "Крис Хемсворт" },
+    { "value": "Бен Аффлек" }
+  ]
+}

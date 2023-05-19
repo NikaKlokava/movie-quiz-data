@@ -1,0 +1,11 @@
+{
+  "id": 3,
+  "question": "Кто этот актер/актриса?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/3/image.png",
+  "answers": [
+    { "value": "Анна Кендрик" },
+    { "value": "Марго Робби" },
+    { "value": "Скарлетт Йоханссон" },
+    { "value": "Камерон Диас", "correct": true }
+  ]
+}

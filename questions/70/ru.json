@@ -1,0 +1,11 @@
+{
+  "id": 70,
+  "question": "Из какого фильма эта сцена?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/70/image.png",
+  "answers": [
+    { "value": "Очень страшное кино" },
+    { "value": "Заклятие" },
+    { "value": "Крик", "correct": true },
+    { "value": "Пункт назначения" }
+  ]
+}

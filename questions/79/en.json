@@ -1,0 +1,11 @@
+{
+  "id": 79,
+  "question": "What movie is this scene from?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/79/image.png",
+  "answers": [
+    { "value": "Gremlins" },
+    { "value": "The Santa Clause" },
+    { "value": "The Christmas Chronicles" },
+    { "value": "Home Alone", "correct": true }
+  ]
+}

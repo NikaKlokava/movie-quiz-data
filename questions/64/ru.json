@@ -1,0 +1,11 @@
+{
+  "id": 64,
+  "question": "Из какого фильма эта сцена?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/64/image.png",
+  "answers": [
+    { "value": "Дом Gucci" },
+    { "value": "Круэлла", "correct": true },
+    { "value": "Ангелы Чарли" },
+    { "value": "Дьявол носит Prada" }
+  ]
+}

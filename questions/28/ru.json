@@ -1,0 +1,11 @@
+{
+  "id": 28,
+  "question": "Кто этот актер/актриса?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/28/image.png",
+  "answers": [
+    { "value": "Леонардо Дикаприо", "correct": true },
+    { "value": "Том Круз" },
+    { "value": "Брэд Питт" },
+    { "value": "Брэдли Купер" }
+  ]
+}

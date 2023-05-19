@@ -1,0 +1,11 @@
+{
+  "id": 74,
+  "question": "Из какого фильма эта сцена?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/74/image.png",
+  "answers": [
+    { "value": "Дивергент" },
+    { "value": "Сумерки", "correct": true },
+    { "value": "Бегущий в лабиринте" },
+    { "value": "Помни меня" }
+  ]
+}

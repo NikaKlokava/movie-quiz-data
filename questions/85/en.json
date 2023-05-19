@@ -1,0 +1,11 @@
+{
+  "id": 85,
+  "question": "What movie is this scene from?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/85/image.png",
+  "answers": [
+    { "value": "Liar Liar", "correct": true },
+    { "value": "Yes Man" },
+    { "value": "The Truman Show" },
+    { "value": "Bruce Almighty" }
+  ]
+}

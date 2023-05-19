@@ -1,0 +1,11 @@
+{
+  "id": 63,
+  "question": "Из какого фильма эта сцена?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/63/image.png",
+  "answers": [
+    { "value": "Мег: Монстр глубины" },
+    { "value": "Выживший" },
+    { "value": "Посейдон" },
+    { "value": "Титаник", "correct": true }
+  ]
+}

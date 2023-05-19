@@ -1,0 +1,11 @@
+{
+  "id": 33,
+  "question": "Кто этот актер/актриса?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/33/image.png",
+  "answers": [
+    { "value": "Крис Хемсворт", "correct": true },
+    { "value": "Крис Пайн" },
+    { "value": "Кристофер Нолан" },
+    { "value": "Крис Эванс" }
+  ]
+}

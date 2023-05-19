@@ -1,0 +1,11 @@
+{
+  "id": 59,
+  "question": "What movie is this scene from?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/59/image.png",
+  "answers": [
+    { "value": "The Day After Tomorrow" },
+    { "value": "Independence Day", "correct": true },
+    { "value": "Deep Impact" },
+    { "value": "Moonfall" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": 59,
+  "question": "Из какого фильма эта сцена?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/59/image.png",
+  "answers": [
+    { "value": "Послезавтра" },
+    { "value": "День независимости", "correct": true },
+    { "value": "Столкновение с бездной" },
+    { "value": "Падение Луны" }
+  ]
+}

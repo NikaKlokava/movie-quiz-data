@@ -1,0 +1,11 @@
+{
+  "id": 14,
+  "question": "Who is this actor/actress?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/14/image.png",
+  "answers": [
+    { "value": "Tom Cruise", "correct": true },
+    { "value": "Ben Affleck" },
+    { "value": "Chris Hemsworth" },
+    { "value": "Jared Leto" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": 56,
+  "question": "What movie is this scene from?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/56/image.png",
+  "answers": [
+    { "value": "The Shallows" },
+    { "value": "Jaws" },
+    { "value": "Underwater" },
+    { "value": "The Meg", "correct": true }
+  ]
+}

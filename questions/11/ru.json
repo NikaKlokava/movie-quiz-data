@@ -1,0 +1,11 @@
+{
+  "id": 11,
+  "question": "Кто этот актер/актриса?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/11/image.png",
+  "answers": [
+    { "value": "Фелисити Джонс" },
+    { "value": "Шарлиз Терон", "correct": true },
+    { "value": "Джессика Честейн" },
+    { "value": "Анна Кендрик" }
+  ]
+}
