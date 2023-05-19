@@ -1,9 +1,7 @@
-[
-  {
-    "name": "Игра 3",
-    "success": 7,
-    "total": 15,
-    "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/main/assets/actors-poster-03.png",
-    "questions": [30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44]
-  }
-]
+{
+  "name": "Игра 3",
+  "success": 7,
+  "total": 15,
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/main/assets/actors-poster-03.png",
+  "questions": [30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44]
+}
