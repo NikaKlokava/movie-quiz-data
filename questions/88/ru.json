@@ -1,0 +1,11 @@
+{
+  "id": 88,
+  "question": "Из какого фильма эта сцена?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/88/image.png",
+  "answers": [
+    { "value": "Гравитация" },
+    { "value": "Начало" },
+    { "value": "Марсианин" },
+    { "value": "Интерстеллар", "correct": true }
+  ]
+}

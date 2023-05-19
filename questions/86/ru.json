@@ -1,0 +1,11 @@
+{
+  "id": 86,
+  "question": "Из какого фильма эта сцена?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/86/image.png",
+  "answers": [
+    { "value": "Секс в большом городе" },
+    { "value": "Девичник в Вегасе" },
+    { "value": "Однажды в Вегасе" },
+    { "value": "Война невест", "correct": true }
+  ]
+}

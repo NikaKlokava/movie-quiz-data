@@ -1,0 +1,11 @@
+{
+  "id": 32,
+  "question": "Кто этот актер/актриса?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/32/image.png",
+  "answers": [
+    { "value": "Адам Сэндлер" },
+    { "value": "Бен Стиллер", "correct": true },
+    { "value": "Бен Аффлек" },
+    { "value": "Райан Рейнольдс" }
+  ]
+}

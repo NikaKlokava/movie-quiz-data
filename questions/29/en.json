@@ -1,0 +1,11 @@
+{
+  "id": 29,
+  "question": "Who is this actor/actress?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/29/image.png",
+  "answers": [
+    { "value": "Ben Affleck" },
+    { "value": "Matthew McConaughey" },
+    { "value": "Jake Gyllenhaal" },
+    { "value": "Mark Wahlberg", "correct": true }
+  ]
+}

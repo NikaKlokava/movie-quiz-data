@@ -1,0 +1,11 @@
+{
+  "id": 18,
+  "question": "Кто этот актер/актриса?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/18/image.png",
+  "answers": [
+    { "value": "Джессика Честейн" },
+    { "value": "Джулия Робертс" },
+    { "value": "Милла Йовович", "correct": true },
+    { "value": "Мила Кунис" }
+  ]
+}

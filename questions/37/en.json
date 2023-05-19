@@ -1,0 +1,11 @@
+{
+  "id": 37,
+  "question": "Who is this actor/actress?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/37/image.png",
+  "answers": [
+    { "value": "Angelina Jolie", "correct": true },
+    { "value": "Jessica Alba" },
+    { "value": "Anna Kendrick" },
+    { "value": "Kristen Wiig" }
+  ]
+}

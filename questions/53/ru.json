@@ -1,0 +1,11 @@
+{
+  "id": 53,
+  "question": "Из какого фильма эта сцена?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/53/image.png",
+  "answers": [
+    { "value": "Оно", "correct": true },
+    { "value": "Астрал" },
+    { "value": "Улыбка" },
+    { "value": "Мгла" }
+  ]
+}

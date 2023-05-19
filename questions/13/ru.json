@@ -1,0 +1,11 @@
+{
+  "id": 13,
+  "question": "Кто этот актер/актриса?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/13/image.png",
+  "answers": [
+    { "value": "Крис Прэтт" },
+    { "value": "Мэтт Деймон" },
+    { "value": "Мэттью Макконахи" },
+    { "value": "Джейк Джилленхол", "correct": true }
+  ]
+}

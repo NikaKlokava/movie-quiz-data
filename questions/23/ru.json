@@ -1,0 +1,11 @@
+{
+  "id": 23,
+  "question": "Кто этот актер/актриса?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/23/image.png",
+  "answers": [
+    { "value": "Крис Прэтт" },
+    { "value": "Райан Рейнольдс", "correct": true },
+    { "value": "Ченнинг Татум" },
+    { "value": "Киллиан Мёрфи" }
+  ]
+}

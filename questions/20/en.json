@@ -1,0 +1,11 @@
+{
+  "id": 20,
+  "question": "Who is this actor/actress?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/20/image.png",
+  "answers": [
+    { "value": "Johnny Depp", "correct": true },
+    { "value": "Brad Pitt" },
+    { "value": "Bradley Cooper" },
+    { "value": "Tom Cruise" }
+  ]
+}

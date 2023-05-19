@@ -1,0 +1,11 @@
+{
+  "id": 36,
+  "question": "Кто этот актер/актриса?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/36/image.png",
+  "answers": [
+    { "value": "Джеймс Макэвой" },
+    { "value": "Брэдли Купер" },
+    { "value": "Киану Ривз", "correct": true },
+    { "value": "Кристофер Нолан" }
+  ]
+}

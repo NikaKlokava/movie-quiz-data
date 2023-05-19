@@ -1,0 +1,11 @@
+{
+  "id": 46,
+  "question": "Из какого фильма эта сцена?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/46/image.png",
+  "answers": [
+    { "value": "Американский пирог", "correct": true },
+    { "value": "10 причин моей ненависти" },
+    { "value": "Очень страшное кино" },
+    { "value": "Девушка по соседству" }
+  ]
+}

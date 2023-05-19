@@ -1,0 +1,11 @@
+{
+  "id": 4,
+  "question": "Who is this actor/actress?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/4/image.png",
+  "answers": [
+    { "value": "Chris Hemsworth" },
+    { "value": "Chris Evans" },
+    { "value": "Cillian Murphy", "correct": true },
+    { "value": "Matthew McConaughey" }
+  ]
+}

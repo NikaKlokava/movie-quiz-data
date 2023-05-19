@@ -1,0 +1,11 @@
+{
+  "id": 43,
+  "question": "Кто этот актер/актриса?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/43/image.png",
+  "answers": [
+    { "value": "Крис Эванс" },
+    { "value": "Джеймс Макэвой" },
+    { "value": "Джейсон Стейтем" },
+    { "value": "Вуди Харрельсон", "correct": true }
+  ]
+}

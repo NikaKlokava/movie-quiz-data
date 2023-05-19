@@ -1,0 +1,11 @@
+{
+  "id": 21,
+  "question": "Кто этот актер/актриса?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/21/image.png",
+  "answers": [
+    { "value": "Шарлиз Терон" },
+    { "value": "Николь Кидман" },
+    { "value": "Фелисити Джонс" },
+    { "value": "Эмма Уотсон", "correct": true }
+  ]
+}

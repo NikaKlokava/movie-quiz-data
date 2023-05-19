@@ -1,0 +1,11 @@
+{
+  "id": 51,
+  "question": "Из какого фильма эта сцена?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/51/image.png",
+  "answers": [
+    { "value": "Стражи Галактики" },
+    { "value": "Пятый элемент" },
+    { "value": "Мстители: Секретные войны" },
+    { "value": "Звёздные Войны", "correct": true }
+  ]
+}

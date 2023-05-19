@@ -1,0 +1,11 @@
+{
+  "id": 35,
+  "question": "Кто этот актер/актриса?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/35/image.png",
+  "answers": [
+    { "value": "Дензел Вашингтон" },
+    { "value": "Вин Дизель", "correct": true },
+    { "value": "Крис Хемсворт" },
+    { "value": "Вуди Харрельсон" }
+  ]
+}

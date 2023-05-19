@@ -1,0 +1,11 @@
+{
+  "id": 7,
+  "question": "Кто этот актер/актриса?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/7/image.png",
+  "answers": [
+    { "value": "Николь Кидман", "correct": true },
+    { "value": "Марго Робби" },
+    { "value": "Фелисити Джонс" },
+    { "value": "Скарлетт Йоханссон" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": 2,
+  "question": "Who is this actor/actress?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/2/image.png",
+  "answers": [
+    { "value": "Ben Affleck" },
+    { "value": "Bradley Cooper", "correct": true },
+    { "value": "Matt Damon" },
+    { "value": "Brad Pitt" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": 62,
+  "question": "Из какого фильма эта сцена?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/62/image.png",
+  "answers": [
+    { "value": "Планета обезьян", "correct": true },
+    { "value": "Стартрек" },
+    { "value": "Чужой" },
+    { "value": "Машина времени" }
+  ]
+}

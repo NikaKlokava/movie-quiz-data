@@ -1,0 +1,11 @@
+{
+  "id": 9,
+  "question": "Кто этот актер/актриса?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/9/image.png",
+  "answers": [
+    { "value": "Дженнифер Лоуренс" },
+    { "value": "Дженнифер Энистон", "correct": true },
+    { "value": "Скарлетт Йоханссон" },
+    { "value": "Джессика Честейн" }
+  ]
+}

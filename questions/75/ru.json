@@ -1,0 +1,11 @@
+{
+  "id": 75,
+  "question": "Из какого фильма эта сцена?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/75/image.png",
+  "answers": [
+    { "value": "Хоббит" },
+    { "value": "Гарри Поттер" },
+    { "value": "Фантастические твари", "correct": true },
+    { "value": "Властелин колец" }
+  ]
+}

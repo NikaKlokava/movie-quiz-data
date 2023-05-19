@@ -1,0 +1,11 @@
+{
+  "id": 65,
+  "question": "Из какого фильма эта сцена?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/65/image.png",
+  "answers": [
+    { "value": "Форсаж", "correct": true },
+    { "value": "Миссия невыполнима" },
+    { "value": "Стражи Галактики" },
+    { "value": "Джон Уик" }
+  ]
+}

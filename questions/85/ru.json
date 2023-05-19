@@ -1,0 +1,11 @@
+{
+  "id": 85,
+  "question": "Из какого фильма эта сцена?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/85/image.png",
+  "answers": [
+    { "value": "Лжец, лжец", "correct": true },
+    { "value": "Всегда говори «да»" },
+    { "value": "Шоу Трумана" },
+    { "value": "Брюс Всемогущий" }
+  ]
+}

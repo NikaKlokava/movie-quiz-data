@@ -1,0 +1,11 @@
+{
+  "id": 57,
+  "question": "Из какого фильма эта сцена?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/57/image.png",
+  "answers": [
+    { "value": "Малефисента" },
+    { "value": "Тор 2: Царство тьмы" },
+    { "value": "Белоснежка и охотник", "correct": true },
+    { "value": "Повелитель стихий" }
+  ]
+}

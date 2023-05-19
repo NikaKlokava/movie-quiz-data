@@ -1,0 +1,11 @@
+{
+  "id": 27,
+  "question": "Кто этот актер/актриса?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/27/image.png",
+  "answers": [
+    { "value": "Джессика Честейн" },
+    { "value": "Сальма Хайек", "correct": true },
+    { "value": "Кристен Уиг" },
+    { "value": "Джессика Альба" }
+  ]
+}

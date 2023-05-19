@@ -1,0 +1,11 @@
+{
+  "id": 48,
+  "question": "Из какого фильма эта сцена?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/48/image.png",
+  "answers": [
+    { "value": "Секс по дружбе", "correct": true },
+    { "value": "Больше чем секс" },
+    { "value": "Однажды в Вегасе" },
+    { "value": "В гостях у Элис" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": 29,
+  "question": "Кто этот актер/актриса?",
+  "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/questions/29/image.png",
+  "answers": [
+    { "value": "Бен Аффлек" },
+    { "value": "Мэттью Макконахи" },
+    { "value": "Джейк Джилленхол" },
+    { "value": "Марк Уолберг", "correct": true }
+  ]
+}
