@@ -34,7 +34,7 @@
     "win": "Congratulations!",
     "fail": "Game over"
   },
-  "play-again": { "title": "Play again", "yes": "Yes", "no": "No" },
+  "play-again": { "title": "Play again?", "yes": "Yes", "no": "No" },
   "go-back": {
     "to-home": "Home",
     "to-quizzes": "List of quizzes"
