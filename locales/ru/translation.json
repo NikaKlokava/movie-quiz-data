@@ -27,5 +27,16 @@
   "categories-header": {
     "home": "Домой",
     "categories": "Категории"
+  },
+  "play-game": "Играть",
+  "next-question": "Следующий",
+  "game-result": {
+    "win": "Поздравляем!",
+    "fail": "Игра окончена"
+  },
+  "play-again": { "title": "Сыграть снова", "yes": "Да", "no": "Нет" },
+  "go-back": {
+    "to-home": "Домой",
+    "to-quizzes": "Категории"
   }
 }
