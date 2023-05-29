@@ -29,6 +29,7 @@
     "categories": "Categories"
   },
   "play-game": "Play",
+  "replay-game": "Replay",
   "next-question": "Next",
   "game-result": {
     "win": "Congratulations!",
