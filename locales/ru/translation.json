@@ -6,18 +6,14 @@
       "1": "Фильмы"
     }
   },
+  "navigation": {
+    "home": "Домой",
+    "categories": "Категории"
+  },
   "games": {
     "title": "КиноИгра",
-    "navigation": {
-      "home": "Домой",
-      "categories": "Категории"
-    },
-    "name": {
-      "1": "Игра 1",
-      "2": "Игра 2",
-      "3": "Игра 3"
-    },
-    "start-game": {
+    "name": "Игра",
+    "buttons": {
       "play": "Играть",
       "replay": "Переиграть"
     }

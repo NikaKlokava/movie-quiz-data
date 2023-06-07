@@ -6,18 +6,14 @@
       "1": "Movies"
     }
   },
+  "navigation": {
+    "home": "Home",
+    "categories": "Categories"
+  },
   "games": {
     "title": "MovieQuiz",
-    "navigation": {
-      "home": "Home",
-      "categories": "Categories"
-    },
-    "name": {
-      "1": "Game 1",
-      "2": "Game 2",
-      "3": "Game 3"
-    },
-    "start-game": {
+    "name": "Game",
+    "buttons": {
       "play": "Play",
       "replay": "Replay"
     }
