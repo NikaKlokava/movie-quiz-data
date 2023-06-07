@@ -12,7 +12,7 @@
   },
   "games": {
     "title": "MovieQuiz",
-    "name": "Game",
+    "name": "Game {{count}}",
     "buttons": {
       "play": "Play",
       "replay": "Replay"
