@@ -12,7 +12,7 @@
   },
   "games": {
     "title": "КиноИгра",
-    "name": "Игра",
+    "name": "Игра {{count}}",
     "buttons": {
       "play": "Играть",
       "replay": "Переиграть"
