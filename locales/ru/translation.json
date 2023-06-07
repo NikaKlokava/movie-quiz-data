@@ -1,8 +1,12 @@
 {
-  "app-title-home": "Кино Игра",
+  "home": {
+    "title": "Кино Игра",
+    "category": {
+      "0": "Актеры",
+      "1": "Фильмы"
+    }
+  },
   "app-title-categories": "КиноИгра",
-  "quiz-title_zero": "Актеры",
-  "quiz-title_one": "Фильмы",
   "settings-title": "Настройки",
   "settings": {
     "volume": "Громкость",

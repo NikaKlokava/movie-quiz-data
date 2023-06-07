@@ -1,1 +1,4 @@
-[{ "id": 0 }, { "id": 1 }]
+[
+  { "id": 0, "name": "home.category.0" },
+  { "id": 1, "name": "home.category.1" }
+]
