@@ -2,8 +2,8 @@
   "app-title-home": "Movie Quiz",
   "app-title-categories": "MovieQuiz",
   "quiz-title": {
-    "actors": "Actors",
-    "movies": "Movies"
+    "zero": "Actors",
+    "one": "Movies"
   },
   "settings-title": "Settings",
   "settings": {

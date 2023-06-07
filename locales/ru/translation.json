@@ -2,8 +2,8 @@
   "app-title-home": "Кино Игра",
   "app-title-categories": "КиноИгра",
   "quiz-title": {
-    "actors": "Актеры",
-    "movies": "Фильмы"
+    "zero": "Актеры",
+    "one": "Фильмы"
   },
   "settings-title": "Настройки",
   "settings": {
