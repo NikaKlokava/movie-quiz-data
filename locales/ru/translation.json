@@ -6,7 +6,22 @@
       "1": "Фильмы"
     }
   },
-  "app-title-categories": "КиноИгра",
+  "games": {
+    "title": "КиноИгра",
+    "navigation": {
+      "home": "Домой",
+      "categories": "Категории"
+    },
+    "name": {
+      "1": "Игра 1",
+      "2": "Игра 2",
+      "3": "Игра 3"
+    },
+    "start-game": {
+      "play": "Играть",
+      "replay": "Переиграть"
+    }
+  },
   "settings-title": "Настройки",
   "settings": {
     "volume": "Громкость",
@@ -26,12 +41,6 @@
     "default": "По умолчанию",
     "save": "Сохранить"
   },
-  "categories-header": {
-    "home": "Домой",
-    "categories": "Категории"
-  },
-  "play-game": "Играть",
-  "replay-game": "Переиграть",
   "next-question": "Следующий",
   "game-result": {
     "win": "Поздравляем!",

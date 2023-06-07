@@ -6,7 +6,22 @@
       "1": "Movies"
     }
   },
-  "app-title-categories": "MovieQuiz",
+  "games": {
+    "title": "MovieQuiz",
+    "navigation": {
+      "home": "Home",
+      "categories": "Categories"
+    },
+    "name": {
+      "1": "Game 1",
+      "2": "Game 2",
+      "3": "Game 3"
+    },
+    "start-game": {
+      "play": "Play",
+      "replay": "Replay"
+    }
+  },
   "settings-title": "Settings",
   "settings": {
     "volume": "Volume",
@@ -26,12 +41,7 @@
     "default": "Default",
     "save": "Save"
   },
-  "categories-header": {
-    "home": "Home",
-    "categories": "Categories"
-  },
-  "play-game": "Play",
-  "replay-game": "Replay",
+
   "next-question": "Next",
   "game-result": {
     "win": "Congratulations!",
