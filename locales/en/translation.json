@@ -1,10 +1,8 @@
 {
   "app-title-home": "Movie Quiz",
   "app-title-categories": "MovieQuiz",
-  "quiz-title": {
-    "zero": "Actors",
-    "one": "Movies"
-  },
+  "quiz-title_zero": "Actors",
+  "quiz-title_one": "Movies",
   "settings-title": "Settings",
   "settings": {
     "volume": "Volume",
