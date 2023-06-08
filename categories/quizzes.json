@@ -1,4 +1,12 @@
 [
-  { "id": 0, "name": "home.category.0" },
-  { "id": 1, "name": "home.category.1" }
+  {
+    "id": 0,
+    "name": "home.category.0",
+    "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/main/assets/actors.png"
+  },
+  {
+    "id": 1,
+    "name": "home.category.1",
+    "avatar": "https://raw.githubusercontent.com/NikaKlokava/movie-quiz-data/main/assets/movies.png"
+  }
 ]
