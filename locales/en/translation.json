@@ -8,7 +8,8 @@
   },
   "navigation": {
     "home": "Home",
-    "categories": "Categories"
+    "categories": "Categories",
+    "settings": "Settings"
   },
   "games": {
     "title": "MovieQuiz",
